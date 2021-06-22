@@ -44,13 +44,13 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### who is **jacob?**? 
 
-### **jacob** has a simple goal: to make analytics accessible to everyone.  
+### jacob has a simple goal: to make analytics accessible to **everyone**.  
   
-being a graduate economist (UCPH), jacob applies **programming and software development** to solve real-world problems.
+as a graduate economist of UCPH, jacob applies **programming and software development** to solve real-world problems.
 
-check out some of his recent projects and solutions [on GitHub](https://github.com/jacobshein).
+check out his recent projects [on GitHub](https://github.com/jacobshein).
   
-having graduated in june 2021, jacob is searching for employment opportunies with exciting companies in Aarhus, Denmark. 
+having graduated in june 2021, jacob is searching for exciting employment opportunies near **Aarhus, Denmark**. 
 
 his **past experience** includes data analysis and app development with **R, Python and SQL** from investment and central banking positions.
 
