@@ -5,9 +5,9 @@ work:
   - category: natural language processing with text data
     items:
       - item: example.html
-        image: /images/CLS.png # optionally, include the file path for an image for each item
+        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       - item: example2.html
-        image: /images/QA.png
+        image: /images/NYC2.jpg
       #- item: example2.html
       #  image: /images/NYC3.jpg
       #- item: example3.html
