@@ -22,7 +22,7 @@ linkedin: jacob-hein # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://jacobhein.com # the link
+about_button: https://jacobhein.com/CV.pdf # the link
 about_button_label: cv # the label on the button
 
 # optional portfolio section ------------------------------------------
@@ -42,15 +42,15 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why hire **jacob?**?  
+### why hire **jacob?**? 
 
 ### **jacob** has a simple goal: to make analytics accessible to everyone.  
   
-**jacob** is an economist by training, having received a BSc. in Mathematics & Economics from Aarhus University, and a MSc. in Economics from the University of Copenhagen. 
-he applies **programming and software development** to solve real-world problems with digital analytics.
-check out recent projects and solutions on [his GitHub](https://github.com/jacobshein).
+**jacob** is a graduate economist of the University of Copenhagen, he applies **programming and software development** to solve real-world problems with digital analytics.
+
+check out his recent projects and solutions on [his GitHub](https://github.com/jacobshein).
   
-being a recent graduate, **jacob** is searching for interesting employment opportunies with visionary companies in the greater area of Aarhus, Denmark. 
+being a recent graduate, **jacob** is searching for interesting employment opportunies with visionary companies in Aarhus, Denmark. 
 
 
-his **past experience** includes data analysis and app development in **R, Python and SQL** from investment and central banking positions with Jyske Bank and Danmarks Nationalbank. 
+his **past experience** includes data analysis and app development in **R, Python and SQL** from investment and central banking positions.
