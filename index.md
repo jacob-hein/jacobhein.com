@@ -46,7 +46,7 @@ cta_button_label: contact # the label on the button
 
 ### **jacob** has a simple goal: to make analytics accessible to everyone.  
   
-a graduate economist of the University of Copenhagen, jacob applies **programming and software development** to solve real-world problems.
+being a graduate economist (UCPH), jacob applies **programming and software development** to solve real-world problems.
 
 check out some of his recent projects and solutions [on GitHub](https://github.com/jacobshein).
   
