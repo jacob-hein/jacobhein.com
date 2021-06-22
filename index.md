@@ -46,11 +46,11 @@ cta_button_label: contact # the label on the button
 
 ### **jacob** has a simple goal: to make analytics accessible to everyone.  
   
-**jacob** is a graduate economist of the University of Copenhagen, he applies **programming and software development** to solve real-world problems.
+a graduate economist of the University of Copenhagen, jacob applies **programming and software development** to solve real-world problems.
 
-check out his recent projects and solutions [on GitHub](https://github.com/jacobshein).
+check out some of his recent projects and solutions [on GitHub](https://github.com/jacobshein).
   
-having graduated in june 2021, **jacob** is searching for employment opportunies with exciting companies in Aarhus, Denmark. 
+having graduated in june 2021, jacob is searching for employment opportunies with exciting companies in Aarhus, Denmark. 
 
 his **past experience** includes data analysis and app development with **R, Python and SQL** from investment and central banking positions.
 
