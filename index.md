@@ -54,4 +54,4 @@ having graduated in june 2021, jacob is searching for employment opportunies wit
 
 his **past experience** includes data analysis and app development with **R, Python and SQL** from investment and central banking positions.
 
-check out his more detailed curriculum vitae below:
+### check out his more detailed curriculum vitae below:
