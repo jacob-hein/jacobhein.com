@@ -4,8 +4,8 @@
 work:
   - category: natural language processing (NLP) with text data
     items:
-      - item: example.html
-        image: /images/QA_curve.png # optionally, include the file path for an image for each item
+      #- item: example.html
+        image: /images/QA.png # optionally, include the file path for an image for each item
       - item: example.html
         image: /images/CLS.png
       - item: example2.html
