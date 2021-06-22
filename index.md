@@ -9,7 +9,7 @@ banner_subtitle: economist by training, programmer by experience
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+#page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/favicon.ico
@@ -42,15 +42,19 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why hire **jacob?**? 
+### who is **jacob?**? 
 
 ### **jacob** has a simple goal: to make analytics accessible to everyone.  
   
-**jacob** is a graduate economist of the University of Copenhagen, he applies **programming and software development** to solve real-world problems with digital analytics.
+**jacob** is a graduate economist of the University of Copenhagen, he applies **programming and software development** to solve real-world problems.
 
-check out his recent projects and solutions on [his GitHub](https://github.com/jacobshein).
+check out his recent projects and solutions [on GitHub](https://github.com/jacobshein).
   
-being a recent graduate, **jacob** is searching for interesting employment opportunies with visionary companies in Aarhus, Denmark. 
+having graduated in june 2021, **jacob** is searching for employment opportunies with exciting companies in Aarhus, Denmark. 
+
+his **past experience** includes data analysis and app development with **R, Python and SQL** from investment and central banking positions.
+
+check out his more detailed curriculum vitae below:
 
 
-his **past experience** includes data analysis and app development in **R, Python and SQL** from investment and central banking positions.
+
