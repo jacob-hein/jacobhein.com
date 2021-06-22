@@ -5,7 +5,7 @@ work:
   - category: automatic danish question answering
     items:
       - item: example.html
-        image: /images/tabelPanik.pdf # optionally, include the file path for an image for each item
+        image: /images/QA.png # optionally, include the file path for an image for each item
       #- item: example.html
       #  image: /images/NYC2.jpg
       #- item: example2.html
