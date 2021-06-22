@@ -14,8 +14,8 @@ work:
       #  image: /images/NYC4.jpg
   - category: financial forecasting
     items:
-      - item: example.html
-        image: /images/LA1.jpg
+      #- item: example.html
+      #  image: /images/LA1.jpg
       #- item: example.html
       #  image: /images/LA2.jpg
       #- item: example2.html
