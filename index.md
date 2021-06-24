@@ -44,10 +44,8 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### who is **jacob**?? 
   
-### jacob is a graduate economist of UCPH who applies **programming and software development** to solve problems. his goal is to make analytics accessible to **everyone**.  
-
-check out his recent projects [on GitHub](https://github.com/jacobshein).
+### jacob is a graduate economist of UCPH who applies **programming and software development** to solve problems. his goal is to make analytics accessible to **everyone**. check out his recent projects [on GitHub](https://github.com/jacobshein).
   
-having graduated in june 2021, jacob is searching for exciting employment opportunies near **Aarhus, Denmark**. his **past experiences** include data analysis and app development with **R, Python and SQL** from investment and central banking positions.
+### having graduated in june 2021, jacob is searching for exciting employment opportunies near **Aarhus, Denmark**. his **past experiences** include data analysis and app development with **R, Python and SQL** from investment and central banking positions.
 
-### check out his more detailed curriculum vitae below:
+### check out his curriculum vitae below:
