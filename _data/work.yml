@@ -16,7 +16,7 @@ work:
     items:
       - item: example3.html
       #  image: /images/LA1.jpg
-      - item: example3.html
+      - item: example4.html
       #  image: /images/LA2.jpg
       #- item: example2.html
       #  image: /images/LA3.jpg
@@ -24,9 +24,9 @@ work:
       #  image: /images/LA4.jpg
   - category: forecasting financial time-series
     items:
-      - item: example3.html
+      - item: example5.html
       #  image: /images/LA1.jpg
-      - item: example3.html
+      - item: example6.html
       #  image: /images/LA2.jpg
       #- item: example2.html
       #  image: /images/LA3.jpg
