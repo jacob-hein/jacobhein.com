@@ -35,7 +35,7 @@ portfolio_description: the projects portfolio of jacob includes programmed appli
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
+cta: let's connect # the heading for your CTA section
 cta_description: don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:jacob-hein@hotmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
@@ -46,6 +46,6 @@ cta_button_label: contact # the label on the button
   
 ### jacob is a graduate economist of UCPH who applies **programming and software development** to solve problems. his goal is to make analytics accessible to **everyone**. check out his recent projects [on GitHub](https://github.com/jacobshein).
   
-### having graduated in june 2021, jacob is searching for exciting employment opportunies near **Aarhus, Denmark**. his **past experiences** include data analysis and app development with **R, Python and SQL** from investment and central banking positions.
+### having graduated in june 2021, jacob is searching for exciting opportunies near **Aarhus, Denmark**. his **past experiences** include data analysis and app development with **R, Python and SQL** from investment and central banking positions.
 
 ### check out his curriculum vitae below:
