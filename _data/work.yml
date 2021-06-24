@@ -2,21 +2,31 @@
 # in the root directory
 
 work:
-  - category: natural language processing with text data
+  - category: natural language processing of text data
     items:
       - item: example.html
-        image: /images/questions.jpg # optionally, include the file path for an image for each item
+      #  image: /images/questions.jpg # optionally, include the file path for an image for each item
       - item: example2.html
-        image: /images/classify.jpg
+      #  image: /images/classify.jpg
       #- item: example2.html
       #  image: /images/NYC3.jpg
       #- item: example3.html
       #  image: /images/NYC4.jpg
-  - category: financial forecasting
+  - category: machine learning and survival analysis applications
     items:
-      #- item: example.html
+      - item: example3.html
       #  image: /images/LA1.jpg
-      #- item: example.html
+      - item: example3.html
+      #  image: /images/LA2.jpg
+      #- item: example2.html
+      #  image: /images/LA3.jpg
+      #- item: example3.html
+      #  image: /images/LA4.jpg
+  - category: forecasting financial time-series
+    items:
+      - item: example3.html
+      #  image: /images/LA1.jpg
+      - item: example3.html
       #  image: /images/LA2.jpg
       #- item: example2.html
       #  image: /images/LA3.jpg
