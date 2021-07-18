@@ -30,22 +30,21 @@ about_button_label: cv # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: the projects portfolio of jacob includes programmed applications of machine learning, statistical analysis and econometrics. check out some of them below. # a description to be desplayed below the heading and above the content
+portfolio_description: the projects portfolio of jacob includes programmed applications of machine learning, statistical analysis and econometrics. check out some of them below or [on GitHub](https://github.com/jacobshein). # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: let's connect # the heading for your CTA section
+cta: contact # the heading for your CTA section
 cta_description: don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:jacob-hein@hotmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### who is **jacob**?? 
   
-### jacob is a graduate economist of UCPH who applies **programming and software development** to solve problems. his goal is to make analytics accessible to **everyone**. check out his recent projects [on GitHub](https://github.com/jacobshein).
+### jacob is a graduate economist of UCPH who applies **programming and software development** to solve real-world problems.
   
-### having graduated in june 2021, jacob is searching for exciting opportunies near **Aarhus, Denmark**. his **past experiences** include data analysis and app development with **R, Python and SQL** from investment and central banking positions.
+### his **past experiences** include data analysis and app development with **R, Python and SQL** from investment and central banking positions.
 
 ### check out his curriculum vitae below:
