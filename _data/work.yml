@@ -9,6 +9,7 @@ work:
         link: https://github.com/jacobshein/Danish-Question-Answering-with-BERT
       - item: example2.html
         image: /images/ex2.jpg
+        link: https://github.com/jacobshein/Danish-Text-Classification-with-BERT
       #- item: example2.html
       #  image: /images/NYC3.jpg
       #- item: example3.html
