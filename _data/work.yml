@@ -6,6 +6,7 @@ work:
     items:
       - item: example.html
         image: /images/ex1png.png # optionally, include the file path for an image for each item
+        link: https://github.com/jacobshein/Danish-Question-Answering-with-BERT
       - item: example2.html
         image: /images/ex2.jpg
       #- item: example2.html
