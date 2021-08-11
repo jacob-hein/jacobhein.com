@@ -23,7 +23,7 @@ linkedin: jacob-hein # the part after ("https://www.linkedin.com/in/...")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://jacobhein.com/CV.pdf # the link
-about_button_label: cv # the label on the button
+about_button_label: curriculum vitae # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -46,5 +46,3 @@ cta_button_label: email # the label on the button
 ### jacob is a graduate economist of UCPH who applies **programming** to solve real-world problems.
   
 ### his past experiences include data analysis and software development with **R, Python and SQL** from junior investment and central banking positions.
-
-### check out his curriculum vitae below:
