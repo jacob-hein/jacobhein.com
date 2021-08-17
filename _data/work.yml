@@ -17,7 +17,7 @@ work:
   - category: machine learning and survival analysis applications
     items:
       - item: example3.html
-      #  image: /images/LA1.jpg
+        image: /images/ex3.png
       - item: example4.html
       #  image: /images/LA2.jpg
       #- item: example2.html
