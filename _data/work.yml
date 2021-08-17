@@ -19,7 +19,7 @@ work:
       - item: example3.html
         image: /images/ex3.png
       - item: example4.html
-      #  image: /images/LA2.jpg
+        image: /images/ex4.png
       #- item: example2.html
       #  image: /images/LA3.jpg
       #- item: example3.html
