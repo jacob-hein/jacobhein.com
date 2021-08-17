@@ -32,7 +32,7 @@ work:
         image: /images/ex5.png
         link: https://github.com/jacobshein/HAR-models-forecasting-realized-volatility-in-US-stocks
       - item: example6.html
-        image: /images/ex5.PNG
+        image: /images/ex6.PNG
         link: https://github.com/jacobshein/Machine-learning-vs.-autoregression-forecasting-ETF-realized-volatilty
       #- item: example2.html
       #  image: /images/LA3.jpg
