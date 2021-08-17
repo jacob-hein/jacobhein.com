@@ -37,7 +37,7 @@ portfolio_description: # the projects portfolio of jacob includes programmed app
 # By declaring these variables, you can include a CTA section.
 cta: contact # the heading for your CTA section
 cta_description: don't hesitate to reach out # a description to be desplayed below the heading and above the content
-cta_button: mailto:jacob-hein@hotmail.com # a link to an external website or to media
+cta_button: mailto:contact@jacobhein.com # a link to an external website or to media
 cta_button_label: email # the label on the button
 
 ---			
