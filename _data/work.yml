@@ -29,7 +29,7 @@ work:
   - category: forecasting financial time-series
     items:
       - item: example5.html
-        image: /images/ex5.PNG
+        image: /images/ex5.png
         link: https://github.com/jacobshein/HAR-models-forecasting-realized-volatility-in-US-stocks
       - item: example6.html
         image: /images/ex5.PNG
