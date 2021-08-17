@@ -41,8 +41,8 @@ cta_button: mailto:jacob-hein@hotmail.com # a link to an external website or to 
 cta_button_label: email # the label on the button
 
 ---			
-[//]: # (write a bit about yourself here)
+[//]: # (write a bit about yourself here his past experiences include data analysis and software development with R, Python and SQL from junior investment and central banking positions.)
   
-### jacob is a graduate economist of UCPH who applies **programming** to solve real-world problems.
+### jacob is a graduate economist of UCPH who applies **programming** to solve real-world problems
   
-### his past experiences include data analysis and software development with **R, Python and SQL** from junior investment and central banking positions.
+### his past experiences include analytics and app dev from junior investment and central banking positions
