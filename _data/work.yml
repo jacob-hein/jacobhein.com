@@ -18,8 +18,10 @@ work:
     items:
       - item: example3.html
         image: /images/ex3.png
+        link: https://github.com/jacobshein/Predicting-unemployment-rates-with-Twitter-sentiment
       - item: example4.html
         image: /images/ex4.png
+        link: https://github.com/jacobshein/Survival-analysis-of-american-ex-convicts
       #- item: example2.html
       #  image: /images/LA3.jpg
       #- item: example3.html
