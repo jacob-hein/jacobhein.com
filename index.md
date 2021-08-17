@@ -42,7 +42,6 @@ cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here his past experiences include data analysis and software development with R, Python and SQL from junior investment and central banking positions.)
-  
 ### jacob is a graduate economist of UCPH who applies **programming** to solve real-world problems
   
 ### his past experiences include analytics and app dev from junior investment and central banking positions
