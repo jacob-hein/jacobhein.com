@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: hi, i'm jacob
-banner_subtitle: economist by training, programmer by experience
+banner_subtitle: graduate economist and data scientist 
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
@@ -42,6 +42,6 @@ cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here his past experiences include data analysis and software development with R, Python and SQL from junior investment and central banking positions.)
-### jacob is a graduate economist of UCPH who applies **programming** to solve real-world problems
+### jacob is a graduate economist who applies **programming** to solve real-world problems
   
 ### his past experiences include analytics and app dev from junior investment and central banking positions
