@@ -42,6 +42,6 @@ cta_button_label: email # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here his past experiences include data analysis and software development with R, Python and SQL from junior investment and central banking positions.)
-### **mathematical economist** by training — **data scientist** by profession — **engineer** by heart
+### **data scientist** by profession — **engineer** at heart
   
-### past experiences include data analytics and software development from investment and central banking positions. currently building cloud-deployed AI solutions for institutional clients
+### past experiences include analytics and software engineering in banking. serving, training and scaling cloud-deployed AI fintech products. currently building agrotech data science solutions
