@@ -118,7 +118,7 @@ custom styles adapted from Twenty by HTML5 Up
 	}
 
 	header.major {
-		padding-bottom: 2em;
+		padding-bottom: em;
 	}
 
 	header.special {
